@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>thumbsup.302dec10-e8a2-11eb-a177-5f170069e756.jpg</filename>
+	<path>/home/uruk380/UTC_UBUNTU/My_Own_Project/Tensorflow_Object_Detection/Nicholas_Renotte_Course/Images/CollectedImages/thumbsup/thumbsup.302dec10-e8a2-11eb-a177-5f170069e756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>242</ymin>
+			<xmax>610</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>
